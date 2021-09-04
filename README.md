@@ -71,5 +71,3 @@ requirements.txt에 있습니다
 ![image-20210618163328248](README.assets/image-20210618163328248.png)
 
 
-
-![image-20210618163334509](README.assets/image-20210618163334509.png)
